@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PieShopAssignment2
+build_property.RootNamespace = PieShopAssignment2
+build_property.ProjectDir = C:\Users\shreya.kanoujia\source\repos\PieShopAssignment2\PieShopAssignment2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\shreya.kanoujia\source\repos\PieShopAssignment2\PieShopAssignment2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Order/CheckoutComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXRDb21wbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/PiesOfTheWeek/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllc09mVGhlV2Vla1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/PiesOfTheWeek/PiesOfTheWeek.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllc09mVGhlV2Vla1xQaWVzT2ZUaGVXZWVrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/CheesePies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXENoZWVzZVBpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/FruitPies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXEZydWl0UGllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/ListMini.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3RNaW5pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXFJlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Pie/SeasonalPies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXFNlYXNvbmFsUGllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/Components/CategoryMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlNZW51XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/Components/ShoppingCartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcHBpbmdDYXJ0U3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/_PieCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaWVDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/_PiePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaWVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shreya.kanoujia/source/repos/PieShopAssignment2/PieShopAssignment2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1xgb85nt46

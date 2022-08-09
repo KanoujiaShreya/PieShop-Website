@@ -1,0 +1,29 @@
+﻿
+<h1>Cheese Pies</h1>
+<body backGound style="background-color:tan">
+
+<div class="row">
+
+@foreach (var pie in Model.Pies)
+{
+    <div class="col-sm-4 col-lg-4 col-md-4" >
+        <div class="thumbnail">
+
+            <h3>
+               
+                
+            </h3>
+            <img style="border-radius:50%"width="40%" src="@pie.ImageThumbnailUrl" alt="">
+            <div class="caption">
+                <h3 class="pull-right">₹@pie.Price.ToString("n")</h3>
+                <h3>
+                     <a><a asp-action="Details" asp-route-id="@pie.PieId">@pie.Name</a></a>
+                    
+                </h3>
+                <p>@pie.ShortDescription</p>
+            </div>
+        </div>
+    </div>
+}
+</div>
+</body>

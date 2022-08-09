@@ -1,0 +1,13 @@
+﻿<div class="dropdown">
+    <li class="btncolor text-light btn btn-warning dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" >
+        Category
+        </li>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+        @foreach(var category in Model)
+        {
+            <li>
+                <a class="dropdown-item" asp-controller="Pie" asp-action="List" asp-route-categoryId="@category.CategoryId"> @category.CategoryName</a>
+            </li>
+        }
+        </ul>
+</div>
